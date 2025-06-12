@@ -5,8 +5,10 @@
 
  Jag valde att använda de moderna sätten att göra webbsidor på – HTML5 och CSS3.
 "flxibl styling" (CSS-variabler och Flexbox): Jag använde  genvägar i CSS som gör det enkelt att ändra färg och hur det ligga på sidan. Det hjälper också sidan att se bra ut på alla skärmar, stor och  liten.
+
 "Först mobilen" (Responsiv design): Jag tänkte på mobilen först när jag designade. Sen lät jag sidan anpassa sig och se bra ut även på  skärmar i datorer.
 Hur den ser ut (Design): Jag valde färger (rött, svat, blått) som passar ihop och ger ett snyggt  intryck med bekväm visual effect.
+
 "Lätt att läsa": Jag valde typsnitt och hur texten ligger så att det är lätt att läsa allt.
 
 "Rent och snyggt": Sidan är centrerad och har lagom mycket space mellan delarna, vilket gör den lättöverskådlig. Mina projekt visas i tydliga "boxes"
